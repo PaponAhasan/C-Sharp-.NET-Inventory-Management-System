@@ -1,0 +1,183 @@
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.exe.config
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.exe
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.pdb
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Login.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Properties.Resources.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.GenerateResource.cache
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.CoreCompileInputs.cache
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.exe
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.pdb
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Signup.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.RecoverPassword.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Dashboard.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Your_Profile.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ShowProfile.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewItems.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Accounting Software(Won)\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Items.resources
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.exe.config
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.exe
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.pdb
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csprojAssemblyReference.cache
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Dashboard.resources
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Items.resources
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewItems.resources
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Login.resources
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Properties.Resources.resources
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.RecoverPassword.resources
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Signup.resources
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ShowProfile.resources
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Your_Profile.resources
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.GenerateResource.cache
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.CoreCompileInputs.cache
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.exe
+C:\Users\Papon\Desktop\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.pdb
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.exe.config
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.exe
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.pdb
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csprojAssemblyReference.cache
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Dashboard.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Items.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewItems.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Login.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Properties.Resources.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.RecoverPassword.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Signup.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ShowProfile.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Your_Profile.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.GenerateResource.cache
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.CoreCompileInputs.cache
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.exe
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.pdb
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Invoices.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Bills.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Customers.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Payments.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Revenues.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Vendors.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewInvoices.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.InvoicesSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ProfileView.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.AllUsers.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewRevenue.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.RevenueSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\Interop.WMPLib.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\AxInterop.WMPLib.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Interop.WMPLib.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\AxInterop.WMPLib.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.ResolveComReference.cache
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.MediaPlayer.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ItemSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.New_Bills.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.BillSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewPayment.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.PaymentSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewCuestomer.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.CuestomerSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Cover_Page.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.xml
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.CopyComplete
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.VendorSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\New folder\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewVendor.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.exe.config
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.exe
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.pdb
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.xml
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\Interop.WMPLib.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\AxInterop.WMPLib.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csprojAssemblyReference.cache
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Interop.WMPLib.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\AxInterop.WMPLib.dll
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.ResolveComReference.cache
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.AllUsers.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Bills.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.BillSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Cover_Page.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.CuestomerSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Customers.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Dashboard.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Invoices.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.InvoicesSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Items.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ItemSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.MediaPlayer.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.New_Bills.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewItems.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Login.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewCuestomer.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewInvoices.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewPayment.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewRevenue.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewVendor.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Payments.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.PaymentSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ProfileView.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Properties.Resources.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.RecoverPassword.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Signup.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Revenues.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.RevenueSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ShowProfile.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Vendors.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.VendorSearch.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Your_Profile.resources
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.GenerateResource.cache
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.CoreCompileInputs.cache
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.CopyComplete
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.exe
+D:\GitHub\Web_Development\C#\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.pdb
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.exe.config
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.exe
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\Bookkeeping Software.pdb
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.dll
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.xml
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\Interop.WMPLib.dll
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\bin\Debug\AxInterop.WMPLib.dll
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csprojAssemblyReference.cache
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Interop.WMPLib.dll
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\AxInterop.WMPLib.dll
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.ResolveComReference.cache
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.AllUsers.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Bills.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.BillSearch.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Cover_Page.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.CuestomerSearch.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Customers.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Dashboard.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Invoices.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.InvoicesSearch.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Items.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ItemSearch.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.MediaPlayer.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.New_Bills.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewItems.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Login.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewCuestomer.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewInvoices.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewPayment.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewRevenue.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.NewVendor.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Payments.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.PaymentSearch.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ProfileView.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Properties.Resources.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.RecoverPassword.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Signup.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Revenues.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.RevenueSearch.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.ShowProfile.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Vendors.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.VendorSearch.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping_Software.Your_Profile.resources
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.GenerateResource.cache
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.CoreCompileInputs.cache
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.csproj.CopyComplete
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.exe
+D:\GitHub\.NET-Dot-Net-\C# Windows Form Application\Accounting Software\Modern\Bookkeeping Software\Bookkeeping Software\obj\Debug\Bookkeeping Software.pdb
