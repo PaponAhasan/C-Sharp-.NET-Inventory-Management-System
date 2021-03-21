@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{56CDCC05-8C32-4F61-9E69-74F6696EA664}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Bookkeeping_Software</RootNamespace>
+    <AssemblyName>Bookkeeping Software</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllUsers.Designer.cs">
+      <DependentUpon>AllUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bills.Designer.cs">
+      <DependentUpon>Bills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BillSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillSearch.Designer.cs">
+      <DependentUpon>BillSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bookkeeping.cs" />
+    <Compile Include="Button_WOC.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cover Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cover Page.Designer.cs">
+      <DependentUpon>Cover Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CuestomerSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CuestomerSearch.Designer.cs">
+      <DependentUpon>CuestomerSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customers.Designer.cs">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBAccess.cs" />
+    <Compile Include="Invoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoices.Designer.cs">
+      <DependentUpon>Invoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InvoicesSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InvoicesSearch.Designer.cs">
+      <DependentUpon>InvoicesSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items.Designer.cs">
+      <DependentUpon>Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemSearch.Designer.cs">
+      <DependentUpon>ItemSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MediaPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MediaPlayer.Designer.cs">
+      <DependentUpon>MediaPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New Bills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Bills.Designer.cs">
+      <DependentUpon>New Bills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Items.Designer.cs">
+      <DependentUpon>New Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewCuestomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewCuestomer.Designer.cs">
+      <DependentUpon>NewCuestomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewInvoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewInvoices.Designer.cs">
+      <DependentUpon>NewInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewPayment.Designer.cs">
+      <DependentUpon>NewPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewRevenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewRevenue.Designer.cs">
+      <DependentUpon>NewRevenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewVendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewVendor.Designer.cs">
+      <DependentUpon>NewVendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments.Designer.cs">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentSearch.Designer.cs">
+      <DependentUpon>PaymentSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileView.Designer.cs">
+      <DependentUpon>ProfileView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecoverPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecoverPassword.Designer.cs">
+      <DependentUpon>RecoverPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Revenues.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Revenues.Designer.cs">
+      <DependentUpon>Revenues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RevenueSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RevenueSearch.Designer.cs">
+      <DependentUpon>RevenueSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowProfile.Designer.cs">
+      <DependentUpon>ShowProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendors.Designer.cs">
+      <DependentUpon>Vendors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendorSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorSearch.Designer.cs">
+      <DependentUpon>VendorSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Your Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Your Profile.Designer.cs">
+      <DependentUpon>Your Profile.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AllUsers.resx">
+      <DependentUpon>AllUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bills.resx">
+      <DependentUpon>Bills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillSearch.resx">
+      <DependentUpon>BillSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cover Page.resx">
+      <DependentUpon>Cover Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CuestomerSearch.resx">
+      <DependentUpon>CuestomerSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customers.resx">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoices.resx">
+      <DependentUpon>Invoices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InvoicesSearch.resx">
+      <DependentUpon>InvoicesSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items.resx">
+      <DependentUpon>Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemSearch.resx">
+      <DependentUpon>ItemSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MediaPlayer.resx">
+      <DependentUpon>MediaPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Bills.resx">
+      <DependentUpon>New Bills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Items.resx">
+      <DependentUpon>New Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewCuestomer.resx">
+      <DependentUpon>NewCuestomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewInvoices.resx">
+      <DependentUpon>NewInvoices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewPayment.resx">
+      <DependentUpon>NewPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewRevenue.resx">
+      <DependentUpon>NewRevenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewVendor.resx">
+      <DependentUpon>NewVendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments.resx">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentSearch.resx">
+      <DependentUpon>PaymentSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileView.resx">
+      <DependentUpon>ProfileView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RecoverPassword.resx">
+      <DependentUpon>RecoverPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Revenues.resx">
+      <DependentUpon>Revenues.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RevenueSearch.resx">
+      <DependentUpon>RevenueSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowProfile.resx">
+      <DependentUpon>ShowProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendors.resx">
+      <DependentUpon>Vendors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorSearch.resx">
+      <DependentUpon>VendorSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Your Profile.resx">
+      <DependentUpon>Your Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
